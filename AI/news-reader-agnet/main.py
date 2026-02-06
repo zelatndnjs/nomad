@@ -1,6 +1,3 @@
-def main():
-    print("Hello from news-reader-agnet!")
+import dotenv
 
-
-if __name__ == "__main__":
-    main()
+dotenv.load_dotenv()
